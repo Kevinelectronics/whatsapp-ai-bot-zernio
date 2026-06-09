@@ -40,6 +40,7 @@ OpenAI API
      ▼
 Zernio API → WhatsApp User
 ```
+<img width="1065" height="606" alt="image" src="https://github.com/user-attachments/assets/fcd1fbee-94ad-47df-818b-06b47c272929" />
 
 ---
 
