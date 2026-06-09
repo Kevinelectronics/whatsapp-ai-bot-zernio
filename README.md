@@ -52,7 +52,7 @@ Zernio API → WhatsApp User
 - Simple REST API + webhooks
 - Free tier available for testing
 
-👉 **[Get started with Zernio →](https://zernio.com/whatsapp)**
+👉 **[Get started with Zernio →](https://zernio.link/kevin-meneses)**
 
 ---
 
@@ -108,7 +108,7 @@ Copy the `https://xxxx.ngrok-free.app` URL.
 
 ### 6. Configure Zernio webhook
 
-1. Go to your [Zernio dashboard](https://zernio.com/whatsapp)
+1. Go to your [Zernio dashboard](https://zernio.link/kevin-meneses)
 2. Open your inbox settings
 3. Set the webhook URL to: `https://xxxx.ngrok-free.app/webhook`
 4. Select the `message.received` event
