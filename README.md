@@ -13,7 +13,7 @@
 
 This is a production-ready **WhatsApp AI chatbot** that:
 
-- Receives real WhatsApp messages via [Zernio](https://zernio.com/whatsapp) webhooks
+- Receives real WhatsApp messages via [Zernio](https://zernio.link/kevin-meneses) webhooks
 - Processes them with **OpenAI GPT-4o-mini** (with full conversation memory per user)
 - Sends AI-generated replies back through WhatsApp in real time
 - Supports `/clear` and `/help` commands
@@ -224,7 +224,7 @@ MIT — free to use, modify, and distribute.
 
 ## Powered by Zernio
 
-This project uses [**Zernio**](https://zernio.com/whatsapp) as the WhatsApp API bridge.
+This project uses [**Zernio**](https://zernio.link/kevin-meneses) as the WhatsApp API bridge.
 Zernio lets any developer connect to WhatsApp in minutes — no Meta Business Manager, no complex approvals.
 
-👉 **[Try Zernio for free → zernio.com/whatsapp](https://zernio.com/whatsapp)**
+👉 **[Try Zernio for free → zernio.com/whatsapp](https://zernio.link/kevin-meneses)**
