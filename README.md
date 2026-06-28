@@ -7,7 +7,10 @@
 [![Powered by Zernio](https://img.shields.io/badge/WhatsApp%20API-Zernio-25D366)](https://zernio.com/whatsapp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/XTh7H0sKW6Q/maxresdefault.jpg)](https://youtu.be/XTh7H0sKW6Q)
 
 ## What This Project Does
 
