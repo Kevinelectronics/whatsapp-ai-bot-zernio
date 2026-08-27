@@ -207,7 +207,7 @@ No ngrok needed in production.
 ## Tech Stack
 
 - **[OpenAI GPT-4o-mini](https://openai.com)** — Fast, cost-effective AI responses with full conversation context
-- **[Zernio WhatsApp API](https://zernio.com/whatsapp)** — WhatsApp messaging without Meta's complexity
+- **[Zernio WhatsApp API](https://zernio.link/kevin-meneses)** — WhatsApp messaging without Meta's complexity
 - **Express.js** — Lightweight webhook server
 - **Node.js 18+** — Native fetch, ES modules, no extra dependencies
 
